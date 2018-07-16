@@ -2,7 +2,7 @@
 
 Good Morning Coders brings coders of many popular programming languages together to share their coding knowledge, seek knowledge from other coders, share their projects in progress, and plan projects.
 
-<img src="public/images/screenshots/screenShot1.png" width="600" height="350">
+<img src="public/images/screenShot1.png" width="600" height="350">
 
 ## Authors
 * **Ryan Miller** - [Ryan's GitHub](https://github.com/Ryan330)
@@ -27,11 +27,11 @@ Good Morning Coders brings coders of many popular programming languages together
 ## Development Process
 * **Ryan** - The concept of this project was to create a forums site for coding-related discussions that also features a dashboard homescreen that divides all of the coding language categories. I began that development process by creating a visualization and options that lead to the forums section of the site. I designed the dashboard completely, implemented a background that changes based on the time of day it is, then used the OpenWeatherMap API to display the current weather based on the location of the user's GitHub account.
 
-<img src="public/images/screenshots/screenShot2.png" width="600" height="350">
+<img src="public/images/screenShot2.png" width="600" height="350">
 
 Afterwards, I developed the functionality of the forums section of the site which allows people to post topics about anything coding related and post comments on said topics as a response to the topic's author.
 
-<img src="public/images/screenshots/screenShot3.png" width="600" height="350">
+<img src="public/images/screenShot3.png" width="600" height="350">
 
 Once Jalani finished coding the GitHub OAuth feature, I used the data to create the user profile and define the user that created a comment or topic.
 
@@ -40,7 +40,7 @@ Once Jalani finished coding the GitHub OAuth feature, I used the data to create 
 After establishing routes, the set up of user authentiation via passport was assigned to me as well.
 Although Ryan wrote the actual code, I provided feedback on the homepage layout and suggested the organization of the homepage as it is currently.
 
-<img src="public/images/screenshots/screenShot4.png" width="600" height="350">
+<img src="public/images/screenShot4.png" width="600" height="350">
 
 ### -Concept-
 The concept of Good Morning Coders is to develop a site where computer programmers can come together to either share their knowledge of the art of coding regardless of what language it is, share their projects or project ideas, and resolve any of the common issues coders face on the daily basis.
